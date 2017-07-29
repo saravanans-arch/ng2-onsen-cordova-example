@@ -13,4 +13,14 @@ npm run typings-install
 npm start
 ```
 
+
+
+```
+How To Build a App?
+1. You should install cordova "npm install -g cordova"
+2. cordova add platform android (or) ios
+3. cordova build android
+4. connect your smartphone with pc cordova run android
+```
+
 And finally: [http://localhost:3000](http://localhost:3000).
