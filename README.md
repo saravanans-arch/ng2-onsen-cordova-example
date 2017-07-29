@@ -1,14 +1,12 @@
-# Angular 2 bindings for Onsen UI Kitchensink
+# Angular 2+ bindings for Onsen UI Cordova App
 
-This is a kitchen sink that demonstrates the seamless integration between Angular 2 and Onsen UI.
-
-You can see it in action [here](http://onsenui.github.io/angular2-onsenui-kitchensink/).
+This is a Sample Project with combinations of Onsenui2 & Angular 2+ & Cordova.
 
 You can also clone this repo and take a look at the code. Use the following commands to run it:
 
 ```
-git clone git@github.com:OnsenUI/angular2-onsenui-kitchensink.git
-cd angular2-onsenui-kitchensink
+git clone https://github.com/saravanans-arch/ng2-onsen-cordova-example.git
+cd ng2-onsen-cordova-example
 npm install -g webpack webpack-dev-server typings typescript
 npm install
 npm run typings-install
